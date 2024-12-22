@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**DdrewsArchiveCode/DdrewsArchiveCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi! It's good to know each other 👋
 
 - 🔭 I’m currently working on Pacman project with C
 - 🌱 I’m currently learning Js/Ts
@@ -11,4 +6,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Js/Ts/PHP
 - 📫 Send me an email to dean.yoandra@gmail.com if you want to 
 - 😄 Pronouns: He/Him
--->
