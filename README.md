@@ -4,5 +4,5 @@ Hi! It's good to know each other 👋
 - 🌱 I’m currently learning Js/Ts
 - 👯 I’m looking to collaborate on a big project
 - 🤔 I’m looking for help with Js/Ts/PHP
-- 📫 Send me an email to dean.yoandra@gmail.com if you want to 
+- 📫 Hit me up on linkedIn: https://www.linkedin.com/in/deandrew-yoandra/
 - 😄 Pronouns: He/Him
